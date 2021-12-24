@@ -2,10 +2,9 @@
 ## Educational projects
 - Html code (layout)
 	- Mortal Kombat 
-	- YouTube Concept
 - Javascript
 	- Willberis
-	- YouTube JS
+	- YouTube
 ### Technologies
 - HTML
 - CSS
