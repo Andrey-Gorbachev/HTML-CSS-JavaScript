@@ -199,7 +199,7 @@
 
 		function createLink( file ) {
 
-			/*const template = `
+			const template = `
 				<div class="card">
 					<a href="../projects/${file}/index.html" target="viewer">
 						<div class="cover">
@@ -208,7 +208,8 @@
 						<div class="title">${getName( file )}</div>
 					</a>
 				</div>
-			`;*/
+			`;
+			/*
 			const template = `
 				<div class="card">
 					<a href="tree/main/projects/${file}/index.html" target="viewer">
@@ -219,7 +220,7 @@
 					</a>
 				</div>
 			`;
-			
+			*/
 
 			const link = createElementFromHTML( template );
 
